@@ -9,7 +9,8 @@ card-based interface powered by the OpenWeather API.
 
 ## 📸 **Screenshot**
 
-`<img src="Screenshot%202025-11-29%20185105.png" width="320">`{=html}
+`<img width="419" height="852" alt="image" src="https://github.com/user-attachments/assets/df10d271-4087-4fd6-aa16-0863a7298215" />
+
 
 ## ✨ **Features**
 
