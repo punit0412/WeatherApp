@@ -13,31 +13,32 @@ card-based interface powered by the OpenWeather API.
 
 ## ✨ **Features**
 
--   Auto-detects current location\
--   Temperature, humidity & visibility\
--   Wind speed and direction\
--   City & country detection\
--   Sunrise and sunset times\
--   Manual refresh option\
--   Clean card-style UI\
+-   Auto-detects current location
+-   Temperature, humidity & visibility
+-   Wind speed and direction
+-   City & country detection
+-   Sunrise and sunset times
+-   Manual refresh option
+-   Clean card-style UI
 -   API + GPS error handling
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
--   **Kotlin**
--   **Android Jetpack** (ViewModel, LiveData)
--   **Retrofit + Gson**
--   **FusedLocationProviderClient**
--   **Material Components**
--   **Vector Drawables** for weather icons
+- **Kotlin**
+- **Retrofit + Gson**
+- **FusedLocationProviderClient** (for location)
+- **Material Components**
+- **Vector Drawables** for weather icons
+- **ConstraintLayout / CardView / XML layouts**
+
 
 ## 🌍 **Weather API**
 
-Powered by the **OpenWeather API**, providing:\
-- Current weather\
-- Temperature & humidity\
-- Wind speed/direction\
-- City details\
+Powered by the **OpenWeather API**, providing:
+- Current weather
+- Temperature & humidity
+- Wind speed/direction
+- City details
 - Sunrise/Sunset info
 
 ## 📦 **Installation**
@@ -70,10 +71,10 @@ Select a device → **Run ▶️**
 
 ## 🚀 **Future Enhancements**
 
--   7-day forecast\
--   Dark mode\
--   Search city feature\
--   Weather animations\
+-   7-day forecast
+-   Dark mode
+-   Search city feature
+-   Weather animations
 -   Widgets
 
 ## 🤝 Contributing
